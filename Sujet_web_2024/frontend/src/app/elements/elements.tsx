@@ -1,5 +1,3 @@
 export const Elements = () => {
-    return (
-        <div>Hello </div>
-    )
-}
+  return <>Hello</>;
+};

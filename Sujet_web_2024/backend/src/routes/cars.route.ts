@@ -1,6 +1,6 @@
 import express from "express";
 import {
-  getCars,
+  getCars
 } from "../controllers/cars.controller";
 
 export const router = express.Router();
